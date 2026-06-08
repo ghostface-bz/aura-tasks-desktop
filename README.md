@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="screenshots/logo.png" alt="Aura Tasks" width="140" />
+
 # Aura Tasks
 
 **A gamified to-do app with zen aesthetics — for your desktop, on every OS.**

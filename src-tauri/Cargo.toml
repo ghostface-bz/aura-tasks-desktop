@@ -1,6 +1,6 @@
 [package]
 name = "aura-tasks"
-version = "0.1.0"
+version = "0.1.1"
 description = "Aura Tasks — Gamified todo app with zen aesthetics"
 authors = ["Junior"]
 license = "GPL-2.0"
